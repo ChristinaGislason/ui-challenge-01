@@ -1,24 +1,68 @@
-@ media (max-width: 768px) {
+@media screen and (min-width: 768px) {
+  
+  header #a{
+    width: 960px;
+    height: 100px;
+  }
 
+  .main1 {
+    float: left;
+  }
+
+  #b {
+    width: 200px;
+    height: 600px;
+  } 
+
+  #c-d {
+    display: flex;
+  }
+
+  #c {
+    width: 380px;
+    height: 200px;
+  }
+  
+  #d {
+    width: 380px;
+    height: 200px;
+  }
+
+  #e-f-g-h {
+    display: flex;
+  }
+
+  #section1 {
+    display: flex;
+  }
+
+  #section1 #e{
+    width: 190px;
+    height: 250px;
 }
 
-
-
-@media (max-width: 600px) {
-  h1 {
-    background-color: seagreen;
-    font-size: 3em;
+  #section1 #f{
+    width: 190px;
+    height: 250px;
   }
 
-  button {
-    background-color: lightblue;
+  #section2 {
+    display: flex;
   }
+
+  #section2 #g{
+    width: 190px;
+    height: 250px;
+  }
+
+  #section2 #h{
+    width: 190px;
+    height: 250px;
+  }
+
+  footer {
+    width: 760px;
+    height: 150px;
 }
 
-in
-@media screen and (min-width: 600px) {
-  h1 {
-    background-color: brown;
-    font-size: 2em;
-  }
 }

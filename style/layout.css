@@ -3,7 +3,7 @@
 header #a{
   width: 480px;
   height: 75px;
-  background-color: red;
+  background-color: pink;
   display: flex;
   align-items: center;
   justify-content: center;
