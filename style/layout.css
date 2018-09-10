@@ -1,6 +1,4 @@
-
-
-header #a{
+header #a {
   width: 480px;
   height: 75px;
   background-color: pink;
@@ -40,7 +38,7 @@ header #a{
   display: flex;
 }
 
-#section1 #e{
+#section1 #e {
   width: 240px;
   height: 250px;
   background-color: green;
@@ -49,7 +47,7 @@ header #a{
   justify-content: center;
 }
 
-#section1 #f{
+#section1 #f {
   width: 240px;
   height: 250px;
   background-color: lightgreen;
@@ -62,7 +60,7 @@ header #a{
   display: flex;
 }
 
-#section2 #g{
+#section2 #g {
   width: 240px;
   height: 250px;
   background-color: brown;
@@ -71,7 +69,7 @@ header #a{
   justify-content: center;
 }
 
-#section2 #h{
+#section2 #h {
   width: 240px;
   height: 250px;
   background-color: grey;

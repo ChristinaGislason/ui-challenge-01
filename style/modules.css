@@ -1,18 +1,17 @@
 @media screen and (min-width: 768px) {
-  
-  header #a{
+  header #a {
     width: 960px;
     height: 100px;
   }
 
-  .main1 {
+  .left-section {
     float: left;
   }
 
   #b {
     width: 200px;
     height: 600px;
-  } 
+  }
 
   #c-d {
     display: flex;
@@ -22,7 +21,7 @@
     width: 380px;
     height: 200px;
   }
-  
+
   #d {
     width: 380px;
     height: 200px;
@@ -36,12 +35,12 @@
     display: flex;
   }
 
-  #section1 #e{
+  #section1 #e {
     width: 190px;
     height: 250px;
-}
+  }
 
-  #section1 #f{
+  #section1 #f {
     width: 190px;
     height: 250px;
   }
@@ -50,12 +49,12 @@
     display: flex;
   }
 
-  #section2 #g{
+  #section2 #g {
     width: 190px;
     height: 250px;
   }
 
-  #section2 #h{
+  #section2 #h {
     width: 190px;
     height: 250px;
   }
@@ -63,6 +62,5 @@
   footer {
     width: 760px;
     height: 150px;
-}
-
+  }
 }
