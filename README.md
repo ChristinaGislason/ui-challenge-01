@@ -20,8 +20,8 @@ This is an independent project, but your are free to collaborate with your class
 
 ## Feature Tasks
 
-- Create a new repository named `ui-challenge-01`.
-- Work on a non-master branch.
+- DONE/ Create a new repository named `ui-challenge-01`.
+- DONE/ Work on a non-master branch.
 - Use good HTML structure to scaffold this site, using semantic elements where possible.
 - Container elements (a box outside of your content box that might contain multiple content boxes) are very useful in managing layout. You will need to think about the relationship between parent and child / descendant elements as well as the order in which you place them in the HTML. Be thoughtful about your layout strategy.
 - Use SMACSS-style modularity to organize your CSS.
