@@ -1,7 +1,7 @@
 header #a {
   width: 480px;
   height: 75px;
-  background-color: pink;
+  background-color: #5f9ea0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10,7 +10,7 @@ header #a {
 #b {
   width: 480px;
   height: 150px;
-  background-color: blue;
+  background-color: #e0ffff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,7 +19,7 @@ header #a {
 #c {
   width: 480px;
   height: 125px;
-  background-color: yellow;
+  background-color: #00ffff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,7 +28,7 @@ header #a {
 #d {
   width: 480px;
   height: 125px;
-  background-color: orange;
+  background-color: #40e0d0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -41,7 +41,7 @@ header #a {
 #section1 #e {
   width: 240px;
   height: 250px;
-  background-color: green;
+  background-color: #afeeee;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -50,7 +50,7 @@ header #a {
 #section1 #f {
   width: 240px;
   height: 250px;
-  background-color: lightgreen;
+  background-color: #add8e6;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -63,7 +63,7 @@ header #a {
 #section2 #g {
   width: 240px;
   height: 250px;
-  background-color: brown;
+  background-color: #b0c4de;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -72,7 +72,7 @@ header #a {
 #section2 #h {
   width: 240px;
   height: 250px;
-  background-color: grey;
+  background-color: #4682b4	;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -81,7 +81,7 @@ header #a {
 footer {
   width: 480px;
   height: 80px;
-  background-color: pink;
+  background-color: #87cefa;
   display: flex;
   align-items: center;
   justify-content: center;

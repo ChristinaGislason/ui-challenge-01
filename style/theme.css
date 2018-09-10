@@ -1,0 +1,38 @@
+@media screen and (max-width: 767px) {
+  header #a {
+    background-color: #228b22;
+  }
+
+  #b {
+    background-color: #9acd32;
+  }
+
+  #c {
+    background-color: #32cd32;
+  }
+
+  #d {
+    background-color: #adff2f;
+  }
+
+  #section1 #e {
+    background-color: #00fa9a;
+  }
+
+  #section1 #f {
+    background-color: #7fff00;
+  }
+
+  #section2 #g {
+    background-color: #3cb371;
+  }
+
+  #section2 #h {
+    background-color: #7fffd4	;
+  }
+  
+  footer{
+    background-color: #66cdaa;
+  }
+
+}
