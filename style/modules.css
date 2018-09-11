@@ -1,5 +1,5 @@
 @media screen and (min-width: 768px) {
-  header #a {
+  header {
     width: 960px;
     height: 100px;
   }
@@ -35,12 +35,12 @@
     display: flex;
   }
 
-  #section1 #e {
+  #e {
     width: 190px;
     height: 250px;
   }
 
-  #section1 #f {
+  #f {
     width: 190px;
     height: 250px;
   }
@@ -49,12 +49,12 @@
     display: flex;
   }
 
-  #section2 #g {
+  #g {
     width: 190px;
     height: 250px;
   }
 
-  #section2 #h {
+  #h {
     width: 190px;
     height: 250px;
   }

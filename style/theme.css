@@ -1,5 +1,5 @@
 @media screen and (max-width: 767px) {
-  header #a {
+  header {
     background-color: #228b22;
   }
 
@@ -15,19 +15,19 @@
     background-color: #adff2f;
   }
 
-  #section1 #e {
+  #e {
     background-color: #00fa9a;
   }
 
-  #section1 #f {
+  #f {
     background-color: #7fff00;
   }
 
-  #section2 #g {
+  #g {
     background-color: #3cb371;
   }
 
-  #section2 #h {
+  #h {
     background-color: #7fffd4	;
   }
   

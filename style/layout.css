@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 
-header #a {
+header {
   width: 480px;
   height: 75px;
   background-color: #5f9ea0;
@@ -43,7 +43,7 @@ header #a {
   display: flex;
 }
 
-#section1 #e {
+#e {
   width: 240px;
   height: 250px;
   background-color: #afeeee;
@@ -52,7 +52,7 @@ header #a {
   justify-content: center;
 }
 
-#section1 #f {
+#f {
   width: 240px;
   height: 250px;
   background-color: #add8e6;
@@ -65,7 +65,7 @@ header #a {
   display: flex;
 }
 
-#section2 #g {
+#g {
   width: 240px;
   height: 250px;
   background-color: #b0c4de;
@@ -74,7 +74,7 @@ header #a {
   justify-content: center;
 }
 
-#section2 #h {
+#h {
   width: 240px;
   height: 250px;
   background-color: #4682b4	;
