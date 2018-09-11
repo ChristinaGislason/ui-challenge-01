@@ -64,3 +64,42 @@
     height: 150px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  header {
+    background-color: #228b22;
+  }
+
+  #b {
+    background-color: #9acd32;
+  }
+
+  #c {
+    background-color: #32cd32;
+  }
+
+  #d {
+    background-color: #adff2f;
+  }
+
+  #e {
+    background-color: #00fa9a;
+  }
+
+  #f {
+    background-color: #7fff00;
+  }
+
+  #g {
+    background-color: #3cb371;
+  }
+
+  #h {
+    background-color: #7fffd4	;
+  }
+  
+  footer{
+    background-color: #66cdaa;
+  }
+
+}
